@@ -11,6 +11,6 @@ Hi,
      </ol>
   </li>
   <li>
-    <p>If you want to change the language which is to be translated to, just change the language code at line 3: from 'ja' to 'any language you want'. To check the code which is used for the language you want you can visit to this <a href="https://devguide.python.org/documentation/translating/" target="_blank">link </a> </p>
+    <p>If you want to change the language which is to be translated to, just change the language code at line 3: from 'ja' to 'any language you want'. To check the code which is used for the language you want you can visit to this <a href="https://devguide.python.org/documentation/translating/" target=_blank>link </a> </p>
   </li>
 </ul>
